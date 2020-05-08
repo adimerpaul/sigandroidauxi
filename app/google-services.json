@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586155112673",
+    "firebase_url": "https://pedido-e5692.firebaseio.com",
+    "project_id": "pedido-e5692",
+    "storage_bucket": "pedido-e5692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586155112673:android:8877472607bbbc9f6b1fa0",
+        "android_client_info": {
+          "package_name": "com.adimer.pedido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586155112673-c085mkvoi11ldobi2egk0o52498gicop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adimer.pedido",
+            "certificate_hash": "2ec0f2e04e9c1be4dbb2b85bcc7ad34023f97bb1"
+          }
+        },
+        {
+          "client_id": "586155112673-g5rd2ss43si8uq6urvan9sa85or7udqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5w2u7PreLQ4ekMuUnrkgluW264KJDUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586155112673-g5rd2ss43si8uq6urvan9sa85or7udqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='pedido'
+include ':app'
